@@ -101,7 +101,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/Manolodios/Manolodios/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://i.pinimg.com/736x/46/a9/e8/46a9e8663072f5f1e26f9f72b231b51c.jpg" width ="80">
 <br>
 <div align='left'>
 
