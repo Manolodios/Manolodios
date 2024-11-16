@@ -101,14 +101,14 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Manolodios/Manolodios/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://https://www.linkedin.com/in/yhojangod-aa151a281/" target="_blank">
+<a href="https://www.linkedin.com/in/yhojan-god-aa151a281/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  yhojangod-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -116,8 +116,8 @@
 <br>
 
 <li>
-<s href="" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  https://x.com/Moddy789-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://x.com/Moddy789" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Moddy789-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -140,7 +140,7 @@
 
 <div align='center'>
 
-## <b>The dreams save us✨</b>
+## <b>The dreams save us✨<b>
 
 </div>
 <br>
