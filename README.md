@@ -70,28 +70,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
-</p>
 
-<br>
-<br>
-
------
-
-<br>
-
-
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://i.pinimg.com/736x/46/a9/e8/46a9e8663072f5f1e26f9f72b231b51c.jpg" width ="80">
 <br>
